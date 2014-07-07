@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffa4a402</color>
+    <color name="primary_dark">#ff776b13</color>
+    <color name="accent">#bebebe</color>
+    <color name="navbar">#ffa4a402</color>
+</resources>
